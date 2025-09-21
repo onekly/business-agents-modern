@@ -55,6 +55,12 @@ const navigationItems = [
     badge: null
   },
   { 
+    name: "Workflows", 
+    href: "/workflows", 
+    icon: Zap,
+    badge: "3"
+  },
+  { 
     name: "Data Sources", 
     href: "/data-sources", 
     icon: Database,
